@@ -30,6 +30,7 @@ import javax.swing.SwingConstants;
 import javax.swing.JCheckBox;
 /**
  * Create login UI
+ * @author vivienneobrien
  */
 public class Login extends JFrame implements ActionListener{
 
